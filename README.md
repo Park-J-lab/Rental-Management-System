@@ -3,7 +3,7 @@ A program to manage rentals in a complex. The manager could register a lease, ad
 
 
 # Operating Manual
-Compile and run ‘src/main/Main.java’. After logging in, you will see the main menu as below.
+Compile and run ‘src/main/Main.java’. Please use ‘85001’ as Manager ID, and ‘123’ as password for test. After logging in, you will see the main menu as below.
 
 ![image](https://github.com/Park-J-lab/Rental-Management-System/blob/master/src/images/1.jpg)
 
