@@ -1,0 +1,11 @@
+Complex ID  Apt ID  Date           Problem Description                Type        Resolution               Res Date       Expense($)     
+
+001         202     2020-11-12     leaking water                      Walls       paint the wall           2020-11-18     400.0          
+001         203     2020-11-12     air conditioner broken             Heating     buy a new one            2020-11-20     700.0          
+001         205     2020-11-15     gas cooker doesn't work            Gas         fix it                   2020-11-22     100.0          
+001         504     2020-11-18     cannot connect to Wifi             Electrical  fix the cable            2020-11-27     100.0          
+001         303     2020-11-20     no water                           Plumbing    fix the tube             2020-11-28     280.0          
+001         604     2020-11-14     some cracks in the wall            Walls       patch up the cracks      2020-11-28     1800.0         
+001         702     2020-11-21     marble tile broken                 Floor       pave a new one           2020-11-28     130.0          
+001         405     2020-11-24     network cable burned               Electrical  assemble a new one       2020-11-29     2100.0         
+001         302     2020-11-21     floor is leaking water             Floor       repave the floor         2020-11-29     1080.0         

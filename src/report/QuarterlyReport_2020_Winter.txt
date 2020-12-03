@@ -1,0 +1,12 @@
+Complex Information
+Complex ID:           001            Address:                 5001 Forbes Avenue, Pittsburgh, PA
+Year:                 2020           Quarter:                 Winter
+Total Apartments:     30             Occupied Apartments:     26             Occupancy Rate:          86%            
+
+Revenues
+Total Rent:           $232141        Uncovered Rent:          $12712
+
+Expenses
+Utilities:            $7799          Maintenance:             $6690          Repairs:                 $5300          
+Insurance:            $11780         New Tenant Cleaning:     $2098          Wages:                   $9000          
+Total Expense:        $42667         

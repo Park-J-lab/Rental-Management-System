@@ -1,0 +1,17 @@
+.root {
+    -fx-background-image: url("background_image.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 800 500;
+    -fx-background-position: center;
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-weight: normal;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+}
