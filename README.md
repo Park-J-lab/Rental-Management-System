@@ -1,4 +1,4 @@
-# Rental-Management-System
+# Intro
 A program to manage rentals in a complex. The manager could register a lease, add a payment, add an expense, view quarterly reports, etc. (JDBC and JavaFX are used in this project.)
 
 
