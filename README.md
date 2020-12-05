@@ -79,7 +79,7 @@ You can click the ‘View Expenses Chart’ at the bottom to view the chart desc
 ### Save the report
 You can save the reports by clicking the ‘Print’ button. The txt documents will then be saved in the path ‘src/report’.
 
-The txt document looks beautiful in MacOS or Linux, while it looks a little bit disorderly in Windows. The following pictures show what the reports look like in Ubuntu.
+The txt document looks beautiful in MacOS or Linux, while it looks a little bit disorderly in Windows. The following picture show what the report looks like in Ubuntu.
 
 ![image](https://github.com/Park-J-lab/Rental-Management-System/blob/master/src/images/16.jpg)
 
